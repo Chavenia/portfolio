@@ -14,3 +14,11 @@ h3 {
     color: #f5f5d5;
 }
 
+.pfp {
+    width: 120px;
+    height: auto;
+    border-radius: 12px;
+    display: block;
+    margin: 20px 0;
+}
+
